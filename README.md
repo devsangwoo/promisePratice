@@ -1,2 +1,0 @@
-# promisePratice
-Created with CodeSandbox
